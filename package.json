@@ -1,0 +1,21 @@
+{
+  "name": "stack-and-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alhaimouni/Stack-and-Queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alhaimouni/Stack-and-Queue/issues"
+  },
+  "homepage": "https://github.com/Alhaimouni/Stack-and-Queue#readme"
+}
