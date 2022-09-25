@@ -25,7 +25,6 @@ class Stack {
     } else {
       return (`Nothing to peek, stack is empty!!`);
     }
-
   };
   isEmpty() {
     if (this.storage.head) {
