@@ -52,6 +52,14 @@ class LinkedList {
     }
     return currentNode.value;
   }
+  removeFirst() {
+    if (this.head) {
+      this.head = this.head.next;
+      return (this.head);
+    } else {
+      return (`LinkedList is empty`);
+    }
+  }
 }
 
 
