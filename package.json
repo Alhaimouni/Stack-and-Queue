@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Alhaimouni/Stack-and-Queue/issues"
   },
-  "homepage": "https://github.com/Alhaimouni/Stack-and-Queue#readme"
+  "homepage": "https://github.com/Alhaimouni/Stack-and-Queue#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
 }
